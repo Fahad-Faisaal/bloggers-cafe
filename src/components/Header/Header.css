@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: space-between;
   border-bottom: 0.5px solid rgba(17, 17, 17, 0.15);
+  margin-bottom: 32px;
 }
 
 .header h1 {
