@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6512a16a25f9bf8323ff7a2c",
+    "isBookmarked": false,
+    "picture": "../src/assets/images/boy1.png",
+    "cover": "../src/assets/images/1.jpg",
+    "time": 13,
+    "name": "Herman Morin",
+    "about": "Discover the inner mystries of Javascript\r\n",
+    "registered": "2021-03-09T07:19:59 -06:00",
+    "tags": ["Web Development", "Javascript", "Education"]
+  },
+  {
+    "id": "6512a16aa7011dda036dcffa",
+    "isBookmarked": false,
+    "picture": "../src/assets/images/boy2.png",
+    "cover": "../src/assets/images/2.png",
+    "time": 9,
+    "name": "Lynch Garza",
+    "about": "Understanding the core fundamentals of programming without coding.\r\n",
+    "registered": "2017-09-08T10:24:33 -06:00",
+    "tags": ["Programming", "Data Structure"]
+  },
+  {
+    "id": "6512a16a81fd0f8ab7a99961",
+    "isBookmarked": false,
+    "picture": "../src/assets/images/girl1.jpg",
+    "cover": "../src/assets/images/3.png",
+    "time": 11,
+    "name": "Tina Gallegos",
+    "about": "Discover the algorithms behind React.Fiber, Virtual DOM, Reconcialation and more.\r\n",
+    "registered": "2014-10-06T03:53:21 -06:00",
+    "tags": ["React", "Fiber", "Virtual DOM"]
+  },
+  {
+    "id": "6512a16aac84f2c91ddeca1b",
+    "isBookmarked": false,
+    "picture": "../src/assets/images/girl2.jpg",
+    "cover": "../src/assets/images/4.jpg",
+    "time": 11,
+    "name": "Johanna Holland",
+    "about": "Top 10 free resources and tools for web development to accelerate developing speed.\r\n",
+    "registered": "2015-04-19T07:17:08 -06:00",
+    "tags": ["Web Development", "Resources"]
+  }
+]
