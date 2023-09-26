@@ -1,0 +1,12 @@
+h4 {
+  background: rgba(96, 71, 236, 0.1);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  border: 1px solid #6047ec;
+  color: #6047ec;
+  font-size: 24px;
+  font-weight: 700;
+}
